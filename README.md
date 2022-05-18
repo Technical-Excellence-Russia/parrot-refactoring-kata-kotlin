@@ -6,7 +6,9 @@ Can you spot any code smells in this code? I'll give you a clue - a spot of Pol(
 
 Refactor this code, take small steps, run the tests often. See how small and beautiful you can make it.
 
-## Acknowlegements
+Watch [Refactoring - The Parrot Kata (in Java)](https://youtu.be/KW-jvdZ8a_Y) for more information.
+
+## Acknowledgements
 
 This code is heavily inspired by one of the examples in Martin Fowler's book "Refactoring". It's a classic, and if it's not on your bookshelf already I suggest you treat yourself to a copy!
 
